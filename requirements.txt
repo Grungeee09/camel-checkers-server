@@ -1,4 +1,7 @@
-fastapi~=0.115.6
+fastapi
 uvicorn[standard]
-requests~=2.32.3
-pydantic~=2.10.4
+requests
+pydantic
+mysql-connector
+customtkinter
+python-dotenv
