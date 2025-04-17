@@ -5,3 +5,4 @@ pydantic
 mysql-connector
 customtkinter
 python-dotenv
+pygame
